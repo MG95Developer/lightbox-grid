@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import data from '../records';
+import data from '../data';
 import { FaTimesCircle } from "react-icons/fa";
 
 const Gallery = () =>
